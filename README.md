@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pathwaymk
+- 👋 Hi, I’m Manoj
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react and backend development
 - 💞️ I’m looking to collaborate on ...
